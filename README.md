@@ -1,7 +1,7 @@
 # MySQL_DataMining
 MySQL DataMining and Python GUI
-ECE 656 - Recommendation System
-Saud Aslam (20751814) , Ahmad Nayyar Hassan(20742695) , Muhammad Bilal Molani (20698482)
+Recommendation System.
+Students : Saud Aslam (20751814) , Ahmad Nayyar Hassan(20742695) , Muhammad Bilal Molani (20698482)
 
 We have implemented both the Decision Tree Classifier and Naive Bayes Predictor to predict the expected rating of a given user (identified by userid) to a given
 business (identified by business id) on the Yelp data set.
